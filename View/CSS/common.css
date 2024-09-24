@@ -1,0 +1,13 @@
+a{
+    text-decoration: none;
+}
+input[type=text] {
+    width: 100%;
+    padding: 9px 15px;
+    margin: 6px 0;
+    box-sizing: border-box;
+    border: 1px solid blue;
+  }
+  input[type=text]:focus {
+    border: 2px solid blue;
+  }
